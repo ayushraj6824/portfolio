@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "name": "Project Name",
+      "image": "assets/project preview/default.png",
+      "description": "project short description",
+      "btns": [
+        {
+          "text": "code",
+          "href": "https://github.com/ayushraj6824"
+        }
+      ]
+    },
+    {
+      "name": "Project Name",
+      "image": "assets/project preview/default.png",
+      "description": "project short description",
+      "btns": [
+        {
+          "text": "code",
+          "href": "https://github.com/ayushraj6824"
+        }
+      ]
+    },
+    {
+      "name": "Project Name",
+      "image": "assets/project preview/default.png",
+      "description": "project short description",
+      "btns": [
+        {
+          "text": "code",
+          "href": "https://github.com/ayushraj6824"
+        }
+      ]
+    }
+  ]
+}
