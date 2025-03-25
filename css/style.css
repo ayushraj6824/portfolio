@@ -490,6 +490,31 @@ section.education {
     border-radius: 10px;
     box-shadow: var(--shadow-1);
 }
+@media screen and (max-width: 480px) {
+    .contact-form {
+        grid-template-columns: 1fr;
+        padding: 10px;
+    }
+
+    .contact-form-header h2 {
+        font-size: 20px;
+    }
+
+    .contact-form-header p {
+        font-size: 12px;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        padding: 10px;
+        font-size: 13px;
+    }
+
+    .contact-form button {
+        padding: 10px;
+        font-size: 14px;
+    }
+}
 .contact-form-header {
     grid-column: span 2;
     text-align: center;
